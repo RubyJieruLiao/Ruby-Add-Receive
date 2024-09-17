@@ -1,0 +1,2459 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+    ----------------------------------------------------
+	Your MATLAB license will expire in 43 days.
+	Please contact your system administrator or
+	MathWorks to renew this license.
+    ----------------------------------------------------
+
+x0_EZ_range1 =
+
+  Columns 1 through 3
+
+  -1.500000000000000  -1.490000000000000  -1.480000000000000
+
+  Columns 4 through 6
+
+  -1.470000000000000  -1.460000000000000  -1.450000000000000
+
+  Columns 7 through 9
+
+  -1.440000000000000  -1.430000000000000  -1.420000000000000
+
+  Columns 10 through 12
+
+  -1.410000000000000  -1.400000000000000  -1.390000000000000
+
+  Columns 13 through 15
+
+  -1.380000000000000  -1.370000000000000  -1.360000000000000
+
+  Columns 16 through 18
+
+  -1.350000000000000  -1.340000000000000  -1.330000000000000
+
+  Columns 19 through 21
+
+  -1.320000000000000  -1.310000000000000  -1.300000000000000
+
+  Columns 22 through 24
+
+  -1.290000000000000  -1.280000000000000  -1.270000000000000
+
+  Columns 25 through 27
+
+  -1.260000000000000  -1.250000000000000  -1.240000000000000
+
+  Columns 28 through 30
+
+  -1.230000000000000  -1.220000000000000  -1.210000000000000
+
+  Columns 31 through 33
+
+  -1.200000000000000  -1.190000000000000  -1.180000000000000
+
+  Columns 34 through 36
+
+  -1.170000000000000  -1.160000000000000  -1.150000000000000
+
+  Columns 37 through 39
+
+  -1.140000000000000  -1.130000000000000  -1.120000000000000
+
+  Columns 40 through 42
+
+  -1.110000000000000  -1.100000000000000  -1.090000000000000
+
+  Columns 43 through 45
+
+  -1.080000000000000  -1.070000000000000  -1.060000000000000
+
+  Columns 46 through 48
+
+  -1.050000000000000  -1.040000000000000  -1.030000000000000
+
+  Columns 49 through 51
+
+  -1.020000000000000  -1.010000000000000  -1.000000000000000
+
+  Columns 1 through 3
+
+  -1.500000000000000  -1.490000000000000  -1.480000000000000
+
+  Columns 4 through 6
+
+  -1.470000000000000  -1.460000000000000  -1.450000000000000
+
+  Columns 7 through 9
+
+  -1.440000000000000  -1.430000000000000  -1.420000000000000
+
+  Columns 10 through 12
+
+  -1.410000000000000  -1.400000000000000  -1.390000000000000
+
+  Columns 13 through 15
+
+  -1.380000000000000  -1.370000000000000  -1.360000000000000
+
+  Columns 16 through 18
+
+  -1.350000000000000  -1.340000000000000  -1.330000000000000
+
+  Columns 19 through 21
+
+  -1.320000000000000  -1.310000000000000  -1.300000000000000
+
+  Columns 22 through 24
+
+  -1.290000000000000  -1.280000000000000  -1.270000000000000
+
+  Columns 25 through 27
+
+  -1.260000000000000  -1.250000000000000  -1.240000000000000
+
+  Columns 28 through 30
+
+  -1.230000000000000  -1.220000000000000  -1.210000000000000
+
+  Columns 31 through 33
+
+  -1.200000000000000  -1.190000000000000  -1.180000000000000
+
+  Columns 34 through 36
+
+  -1.170000000000000  -1.160000000000000  -1.150000000000000
+
+  Columns 37 through 39
+
+  -1.140000000000000  -1.130000000000000  -1.120000000000000
+
+  Columns 40 through 42
+
+  -1.110000000000000  -1.100000000000000  -1.090000000000000
+
+  Columns 43 through 45
+
+  -1.080000000000000  -1.070000000000000  -1.060000000000000
+
+  Columns 46 through 48
+
+  -1.050000000000000  -1.040000000000000  -1.030000000000000
+
+  Columns 49 through 51
+
+  -1.020000000000000  -1.010000000000000  -1.000000000000000
+
+Processing original EZ = 23
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35308, max. relative error = 1.278461e-15
+stability1 = 213.677604 at x0(EZ) = -1.500000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35298, max. relative error = 1.277874e-15
+stability1 = 213.595860 at x0(EZ) = -1.490000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35287, max. relative error = 1.278412e-15
+stability1 = 213.514091 at x0(EZ) = -1.480000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35276, max. relative error = 1.278957e-15
+stability1 = 213.432297 at x0(EZ) = -1.470000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35266, max. relative error = 1.278392e-15
+stability1 = 213.350478 at x0(EZ) = -1.460000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35255, max. relative error = 1.278953e-15
+stability1 = 213.268635 at x0(EZ) = -1.450000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35244, max. relative error = 1.279521e-15
+stability1 = 213.186768 at x0(EZ) = -1.440000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35234, max. relative error = 1.278978e-15
+stability1 = 213.104877 at x0(EZ) = -1.430000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35223, max. relative error = 1.279562e-15
+stability1 = 213.022962 at x0(EZ) = -1.420000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35213, max. relative error = 1.279033e-15
+stability1 = 212.941024 at x0(EZ) = -1.410000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35202, max. relative error = 1.279632e-15
+stability1 = 212.859063 at x0(EZ) = -1.400000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35191, max. relative error = 1.280239e-15
+stability1 = 212.777079 at x0(EZ) = -1.390000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35181, max. relative error = 1.279731e-15
+stability1 = 212.695073 at x0(EZ) = -1.380000
+
+Equation solved, inaccuracy possible.
+
+The vector of function values is near zero, as measured by the selected value
+of the function tolerance. However, the last step was ineffective.
+
+
+
+Exit flag: 3
+con2cov: iterations = 35170, max. relative error = 1.280352e-15
+stability1 = 212.613045 at x0(EZ) = -1.370000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35160, max. relative error = 1.279858e-15
+stability1 = 212.530995 at x0(EZ) = -1.360000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35149, max. relative error = 1.280494e-15
+stability1 = 212.448924 at x0(EZ) = -1.350000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35139, max. relative error = 1.280014e-15
+stability1 = 212.366832 at x0(EZ) = -1.340000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35128, max. relative error = 1.280665e-15
+stability1 = 212.284719 at x0(EZ) = -1.330000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35118, max. relative error = 1.280198e-15
+stability1 = 212.202586 at x0(EZ) = -1.320000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35107, max. relative error = 1.280864e-15
+stability1 = 212.120434 at x0(EZ) = -1.310000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35097, max. relative error = 1.280410e-15
+stability1 = 212.038261 at x0(EZ) = -1.300000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35086, max. relative error = 1.281090e-15
+stability1 = 211.956070 at x0(EZ) = -1.290000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35076, max. relative error = 1.280650e-15
+stability1 = 211.873860 at x0(EZ) = -1.280000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35065, max. relative error = 1.281345e-15
+stability1 = 211.791631 at x0(EZ) = -1.270000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35055, max. relative error = 1.280918e-15
+stability1 = 211.709385 at x0(EZ) = -1.260000
+
+Equation solved, inaccuracy possible.
+
+The vector of function values is near zero, as measured by the selected value
+of the function tolerance. However, the last step was ineffective.
+
+
+
+Exit flag: 3
+con2cov: iterations = 35044, max. relative error = 1.281627e-15
+stability1 = 211.627121 at x0(EZ) = -1.250000
+
+Equation solved, inaccuracy possible.
+
+The vector of function values is near zero, as measured by the selected value
+of the function tolerance. However, the last step was ineffective.
+
+
+
+Exit flag: 3
+con2cov: iterations = 35034, max. relative error = 1.281213e-15
+stability1 = 211.544841 at x0(EZ) = -1.240000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35023, max. relative error = 1.281936e-15
+stability1 = 211.462544 at x0(EZ) = -1.230000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35013, max. relative error = 1.281535e-15
+[Warning: stability1 is not a real number or is NaN at x0(EZ) = -1.220000] 
+[> In mainK44 at 87
+  In run at 63] 
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 35022, max. relative error = 1.281896e-15
+Fine stability1 = 211.454313 at x0(EZ) = -1.229000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 35021, max. relative error = 1.281855e-15
+Fine stability1 = 211.446082 at x0(EZ) = -1.228000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 35020, max. relative error = 1.281815e-15
+Fine stability1 = 211.437851 at x0(EZ) = -1.227000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 35019, max. relative error = 1.281775e-15
+Fine stability1 = 211.429620 at x0(EZ) = -1.226000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 35018, max. relative error = 1.281735e-15
+Fine stability1 = 211.421389 at x0(EZ) = -1.225000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 35017, max. relative error = 1.281695e-15
+Fine stability1 = 211.413158 at x0(EZ) = -1.224000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 35016, max. relative error = 1.281655e-15
+Fine stability1 = 211.404926 at x0(EZ) = -1.223000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 35015, max. relative error = 1.281615e-15
+Fine stability1 = 211.396694 at x0(EZ) = -1.222000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 35014, max. relative error = 1.281575e-15
+Fine stability1 = 211.388463 at x0(EZ) = -1.221000
+Processing original EZ = 27
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35248, max. relative error = 1.211141e-15
+stability1 = 213.539583 at x0(EZ) = -1.500000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35237, max. relative error = 1.209801e-15
+stability1 = 213.456232 at x0(EZ) = -1.490000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35225, max. relative error = 1.209521e-15
+stability1 = 213.372858 at x0(EZ) = -1.480000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35214, max. relative error = 1.208185e-15
+stability1 = 213.289458 at x0(EZ) = -1.470000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35202, max. relative error = 1.207909e-15
+stability1 = 213.206035 at x0(EZ) = -1.460000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35191, max. relative error = 1.206578e-15
+stability1 = 213.122587 at x0(EZ) = -1.450000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35179, max. relative error = 1.206305e-15
+stability1 = 213.039115 at x0(EZ) = -1.440000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35168, max. relative error = 1.204978e-15
+stability1 = 212.955619 at x0(EZ) = -1.430000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35156, max. relative error = 1.204708e-15
+stability1 = 212.872100 at x0(EZ) = -1.420000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35145, max. relative error = 1.203386e-15
+stability1 = 212.788557 at x0(EZ) = -1.410000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35133, max. relative error = 1.203119e-15
+stability1 = 212.704990 at x0(EZ) = -1.400000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35122, max. relative error = 1.201801e-15
+stability1 = 212.621400 at x0(EZ) = -1.390000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35110, max. relative error = 1.201538e-15
+stability1 = 212.537787 at x0(EZ) = -1.380000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35099, max. relative error = 1.200223e-15
+stability1 = 212.454151 at x0(EZ) = -1.370000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35087, max. relative error = 1.199963e-15
+stability1 = 212.370491 at x0(EZ) = -1.360000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35076, max. relative error = 1.198652e-15
+stability1 = 212.286809 at x0(EZ) = -1.350000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35064, max. relative error = 1.198395e-15
+stability1 = 212.203105 at x0(EZ) = -1.340000
+
+Equation solved, inaccuracy possible.
+
+The vector of function values is near zero, as measured by the selected value
+of the function tolerance. However, the last step was ineffective.
+
+
+
+Exit flag: 3
+con2cov: iterations = 35053, max. relative error = 1.197087e-15
+stability1 = 212.119378 at x0(EZ) = -1.330000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35042, max. relative error = 1.195781e-15
+stability1 = 212.035629 at x0(EZ) = -1.320000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35030, max. relative error = 1.195528e-15
+stability1 = 211.951857 at x0(EZ) = -1.310000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35019, max. relative error = 1.194226e-15
+stability1 = 211.868064 at x0(EZ) = -1.300000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35007, max. relative error = 1.193976e-15
+stability1 = 211.784249 at x0(EZ) = -1.290000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34996, max. relative error = 1.192676e-15
+stability1 = 211.700412 at x0(EZ) = -1.280000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34985, max. relative error = 1.191379e-15
+stability1 = 211.616554 at x0(EZ) = -1.270000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34973, max. relative error = 1.191132e-15
+stability1 = 211.532674 at x0(EZ) = -1.260000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34962, max. relative error = 1.189838e-15
+stability1 = 211.448774 at x0(EZ) = -1.250000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34950, max. relative error = 1.189593e-15
+stability1 = 211.364852 at x0(EZ) = -1.240000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34939, max. relative error = 1.188302e-15
+stability1 = 211.280910 at x0(EZ) = -1.230000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34928, max. relative error = 1.187012e-15
+stability1 = 211.196948 at x0(EZ) = -1.220000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34916, max. relative error = 1.186770e-15
+stability1 = 211.112965 at x0(EZ) = -1.210000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34905, max. relative error = 1.185483e-15
+stability1 = 211.028962 at x0(EZ) = -1.200000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34894, max. relative error = 1.184197e-15
+stability1 = 210.944939 at x0(EZ) = -1.190000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34882, max. relative error = 1.183959e-15
+stability1 = 210.860897 at x0(EZ) = -1.180000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34871, max. relative error = 1.182675e-15
+stability1 = 210.776835 at x0(EZ) = -1.170000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34860, max. relative error = 1.181393e-15
+stability1 = 210.692753 at x0(EZ) = -1.160000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34848, max. relative error = 1.181157e-15
+stability1 = 210.608653 at x0(EZ) = -1.150000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34837, max. relative error = 1.179877e-15
+stability1 = 210.524534 at x0(EZ) = -1.140000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34826, max. relative error = 1.178599e-15
+stability1 = 210.440396 at x0(EZ) = -1.130000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34814, max. relative error = 1.178365e-15
+[Warning: stability1 is not a real number or is NaN at x0(EZ) = -1.120000] 
+[> In mainK44 at 87
+  In run at 63] 
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 34825, max. relative error = 1.178366e-15
+Fine stability1 = 210.431982 at x0(EZ) = -1.129000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 34823, max. relative error = 1.179178e-15
+Fine stability1 = 210.423567 at x0(EZ) = -1.128000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 34822, max. relative error = 1.178946e-15
+Fine stability1 = 210.415151 at x0(EZ) = -1.127000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 34821, max. relative error = 1.178714e-15
+Fine stability1 = 210.406736 at x0(EZ) = -1.126000
+
+Equation solved, inaccuracy possible.
+
+The vector of function values is near zero, as measured by the selected value
+of the function tolerance. However, the last step was ineffective.
+
+
+
+con2cov: iterations = 34820, max. relative error = 1.178482e-15
+Fine stability1 = 210.398321 at x0(EZ) = -1.125000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 34819, max. relative error = 1.178250e-15
+Fine stability1 = 210.389905 at x0(EZ) = -1.124000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 34818, max. relative error = 1.178017e-15
+Fine stability1 = 210.381489 at x0(EZ) = -1.123000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 34817, max. relative error = 1.177785e-15
+Fine stability1 = 210.373073 at x0(EZ) = -1.122000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 34816, max. relative error = 1.177553e-15
+Fine stability1 = 210.364657 at x0(EZ) = -1.121000
+Processing original EZ = 72
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35357, max. relative error = 1.165277e-15
+stability1 = 213.774963 at x0(EZ) = -1.500000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35347, max. relative error = 1.163931e-15
+stability1 = 213.694470 at x0(EZ) = -1.490000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35337, max. relative error = 1.162591e-15
+stability1 = 213.613953 at x0(EZ) = -1.480000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35327, max. relative error = 1.161256e-15
+stability1 = 213.533412 at x0(EZ) = -1.470000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35317, max. relative error = 1.159928e-15
+stability1 = 213.452848 at x0(EZ) = -1.460000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35307, max. relative error = 1.158605e-15
+stability1 = 213.372261 at x0(EZ) = -1.450000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35297, max. relative error = 1.157288e-15
+stability1 = 213.291651 at x0(EZ) = -1.440000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35287, max. relative error = 1.155976e-15
+stability1 = 213.211019 at x0(EZ) = -1.430000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35277, max. relative error = 1.154671e-15
+stability1 = 213.130365 at x0(EZ) = -1.420000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35267, max. relative error = 1.153370e-15
+stability1 = 213.049689 at x0(EZ) = -1.410000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35257, max. relative error = 1.152075e-15
+stability1 = 212.968992 at x0(EZ) = -1.400000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35247, max. relative error = 1.150786e-15
+stability1 = 212.888274 at x0(EZ) = -1.390000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35237, max. relative error = 1.149502e-15
+stability1 = 212.807535 at x0(EZ) = -1.380000
+
+Equation solved, inaccuracy possible.
+
+The vector of function values is near zero, as measured by the selected value
+of the function tolerance. However, the last step was ineffective.
+
+
+
+Exit flag: 3
+con2cov: iterations = 35227, max. relative error = 1.148223e-15
+stability1 = 212.726776 at x0(EZ) = -1.370000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35217, max. relative error = 1.146949e-15
+stability1 = 212.645998 at x0(EZ) = -1.360000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35207, max. relative error = 1.145681e-15
+stability1 = 212.565199 at x0(EZ) = -1.350000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35197, max. relative error = 1.145043e-15
+stability1 = 212.484382 at x0(EZ) = -1.340000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35187, max. relative error = 1.145286e-15
+stability1 = 212.403545 at x0(EZ) = -1.330000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35178, max. relative error = 1.144532e-15
+stability1 = 212.322691 at x0(EZ) = -1.320000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35168, max. relative error = 1.144791e-15
+stability1 = 212.241819 at x0(EZ) = -1.310000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35158, max. relative error = 1.145058e-15
+stability1 = 212.160929 at x0(EZ) = -1.300000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35148, max. relative error = 1.145333e-15
+stability1 = 212.080022 at x0(EZ) = -1.290000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35138, max. relative error = 1.145616e-15
+stability1 = 211.999099 at x0(EZ) = -1.280000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35128, max. relative error = 1.145907e-15
+stability1 = 211.918160 at x0(EZ) = -1.270000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35118, max. relative error = 1.146207e-15
+[Warning: stability1 is not a real number or is NaN at x0(EZ) = -1.260000] 
+[> In mainK44 at 87
+  In run at 63] 
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 35127, max. relative error = 1.145937e-15
+Fine stability1 = 211.910065 at x0(EZ) = -1.269000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 35126, max. relative error = 1.145967e-15
+Fine stability1 = 211.901970 at x0(EZ) = -1.268000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 35125, max. relative error = 1.145996e-15
+Fine stability1 = 211.893875 at x0(EZ) = -1.267000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 35124, max. relative error = 1.146026e-15
+Fine stability1 = 211.885780 at x0(EZ) = -1.266000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 35123, max. relative error = 1.146056e-15
+Fine stability1 = 211.877685 at x0(EZ) = -1.265000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 35122, max. relative error = 1.146086e-15
+Fine stability1 = 211.869589 at x0(EZ) = -1.264000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 35121, max. relative error = 1.146116e-15
+Fine stability1 = 211.861493 at x0(EZ) = -1.263000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 35120, max. relative error = 1.146146e-15
+Fine stability1 = 211.853398 at x0(EZ) = -1.262000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 35119, max. relative error = 1.146177e-15
+Fine stability1 = 211.845302 at x0(EZ) = -1.261000
+Processing original EZ = 76
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35293, max. relative error = 1.228253e-15
+stability1 = 213.529887 at x0(EZ) = -1.500000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35283, max. relative error = 1.226757e-15
+stability1 = 213.446412 at x0(EZ) = -1.490000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35272, max. relative error = 1.226337e-15
+stability1 = 213.362912 at x0(EZ) = -1.480000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35261, max. relative error = 1.225923e-15
+stability1 = 213.279387 at x0(EZ) = -1.470000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35250, max. relative error = 1.225513e-15
+stability1 = 213.195838 at x0(EZ) = -1.460000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35239, max. relative error = 1.225108e-15
+stability1 = 213.112265 at x0(EZ) = -1.450000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35228, max. relative error = 1.224708e-15
+stability1 = 213.028667 at x0(EZ) = -1.440000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35217, max. relative error = 1.224313e-15
+stability1 = 212.945045 at x0(EZ) = -1.430000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35207, max. relative error = 1.222851e-15
+stability1 = 212.861399 at x0(EZ) = -1.420000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35196, max. relative error = 1.222465e-15
+stability1 = 212.777729 at x0(EZ) = -1.410000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35185, max. relative error = 1.222083e-15
+stability1 = 212.694036 at x0(EZ) = -1.400000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35174, max. relative error = 1.221706e-15
+stability1 = 212.610318 at x0(EZ) = -1.390000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35163, max. relative error = 1.221334e-15
+stability1 = 212.526577 at x0(EZ) = -1.380000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35153, max. relative error = 1.219896e-15
+stability1 = 212.442813 at x0(EZ) = -1.370000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35142, max. relative error = 1.219532e-15
+stability1 = 212.359026 at x0(EZ) = -1.360000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35131, max. relative error = 1.219174e-15
+stability1 = 212.275215 at x0(EZ) = -1.350000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35120, max. relative error = 1.218819e-15
+stability1 = 212.191382 at x0(EZ) = -1.340000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35110, max. relative error = 1.217399e-15
+stability1 = 212.107526 at x0(EZ) = -1.330000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35099, max. relative error = 1.217054e-15
+stability1 = 212.023647 at x0(EZ) = -1.320000
+
+Equation solved, inaccuracy possible.
+
+The vector of function values is near zero, as measured by the selected value
+of the function tolerance. However, the last step was ineffective.
+
+
+
+Exit flag: 3
+con2cov: iterations = 35088, max. relative error = 1.216712e-15
+stability1 = 211.939746 at x0(EZ) = -1.310000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35077, max. relative error = 1.216375e-15
+stability1 = 211.855822 at x0(EZ) = -1.300000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35067, max. relative error = 1.214973e-15
+stability1 = 211.771876 at x0(EZ) = -1.290000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35056, max. relative error = 1.214645e-15
+stability1 = 211.687909 at x0(EZ) = -1.280000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35045, max. relative error = 1.214320e-15
+stability1 = 211.603919 at x0(EZ) = -1.270000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35035, max. relative error = 1.212931e-15
+stability1 = 211.519908 at x0(EZ) = -1.260000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35024, max. relative error = 1.212615e-15
+stability1 = 211.435875 at x0(EZ) = -1.250000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35013, max. relative error = 1.212304e-15
+stability1 = 211.351822 at x0(EZ) = -1.240000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35002, max. relative error = 1.211996e-15
+stability1 = 211.267746 at x0(EZ) = -1.230000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34992, max. relative error = 1.210624e-15
+stability1 = 211.183651 at x0(EZ) = -1.220000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34981, max. relative error = 1.210324e-15
+stability1 = 211.099534 at x0(EZ) = -1.210000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34971, max. relative error = 1.208961e-15
+stability1 = 211.015396 at x0(EZ) = -1.200000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34960, max. relative error = 1.208669e-15
+stability1 = 210.931239 at x0(EZ) = -1.190000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34949, max. relative error = 1.208381e-15
+stability1 = 210.847061 at x0(EZ) = -1.180000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34939, max. relative error = 1.207030e-15
+stability1 = 210.762863 at x0(EZ) = -1.170000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34928, max. relative error = 1.206750e-15
+stability1 = 210.678645 at x0(EZ) = -1.160000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34917, max. relative error = 1.206473e-15
+stability1 = 210.594408 at x0(EZ) = -1.150000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34907, max. relative error = 1.205134e-15
+stability1 = 210.510152 at x0(EZ) = -1.140000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34896, max. relative error = 1.204865e-15
+stability1 = 210.425876 at x0(EZ) = -1.130000
+
+Equation solved, inaccuracy possible.
+
+The vector of function values is near zero, as measured by the selected value
+of the function tolerance. However, the last step was ineffective.
+
+
+
+Exit flag: 3
+con2cov: iterations = 34886, max. relative error = 1.203534e-15
+stability1 = 210.341581 at x0(EZ) = -1.120000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34875, max. relative error = 1.203273e-15
+stability1 = 210.257268 at x0(EZ) = -1.110000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34864, max. relative error = 1.203015e-15
+stability1 = 210.172936 at x0(EZ) = -1.100000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34854, max. relative error = 1.201696e-15
+stability1 = 210.088586 at x0(EZ) = -1.090000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34843, max. relative error = 1.201445e-15
+stability1 = 210.004218 at x0(EZ) = -1.080000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34833, max. relative error = 1.200133e-15
+stability1 = 209.919832 at x0(EZ) = -1.070000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34822, max. relative error = 1.199890e-15
+stability1 = 209.835429 at x0(EZ) = -1.060000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34812, max. relative error = 1.198586e-15
+stability1 = 209.751008 at x0(EZ) = -1.050000
+
+Equation solved, inaccuracy possible.
+
+The vector of function values is near zero, as measured by the selected value
+of the function tolerance. However, the last step was ineffective.
+
+
+
+Exit flag: 3
+con2cov: iterations = 34801, max. relative error = 1.198349e-15
+stability1 = 209.666571 at x0(EZ) = -1.040000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34791, max. relative error = 1.197053e-15
+stability1 = 209.582116 at x0(EZ) = -1.030000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34780, max. relative error = 1.196823e-15
+stability1 = 209.497645 at x0(EZ) = -1.020000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 34770, max. relative error = 1.195534e-15
+stability1 = 209.413158 at x0(EZ) = -1.010000
+
+Equation solved, inaccuracy possible.
+
+The vector of function values is near zero, as measured by the selected value
+of the function tolerance. However, the last step was ineffective.
+
+
+
+Exit flag: 3
+con2cov: iterations = 34759, max. relative error = 1.195311e-15
+stability1 = 209.328655 at x0(EZ) = -1.000000
+Processing original EZ = 78
+
+Equation solved, inaccuracy possible.
+
+The vector of function values is near zero, as measured by the selected value
+of the function tolerance. However, the last step was ineffective.
+
+
+
+Exit flag: 3
+con2cov: iterations = 35405, max. relative error = 1.139387e-15
+stability1 = 213.478446 at x0(EZ) = -1.500000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35396, max. relative error = 1.139283e-15
+stability1 = 213.394013 at x0(EZ) = -1.490000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35386, max. relative error = 1.140186e-15
+stability1 = 213.309554 at x0(EZ) = -1.480000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35377, max. relative error = 1.140108e-15
+stability1 = 213.225068 at x0(EZ) = -1.470000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35368, max. relative error = 1.140043e-15
+stability1 = 213.140557 at x0(EZ) = -1.460000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35359, max. relative error = 1.139990e-15
+stability1 = 213.056022 at x0(EZ) = -1.450000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35350, max. relative error = 1.139950e-15
+stability1 = 212.971462 at x0(EZ) = -1.440000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35341, max. relative error = 1.139922e-15
+stability1 = 212.886878 at x0(EZ) = -1.430000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35332, max. relative error = 1.139907e-15
+stability1 = 212.802271 at x0(EZ) = -1.420000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35322, max. relative error = 1.140902e-15
+stability1 = 212.717641 at x0(EZ) = -1.410000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35313, max. relative error = 1.140911e-15
+stability1 = 212.632989 at x0(EZ) = -1.400000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35304, max. relative error = 1.140933e-15
+stability1 = 212.548315 at x0(EZ) = -1.390000
+
+Equation solved, inaccuracy possible.
+
+The vector of function values is near zero, as measured by the selected value
+of the function tolerance. However, the last step was ineffective.
+
+
+
+Exit flag: 3
+con2cov: iterations = 35295, max. relative error = 1.140968e-15
+stability1 = 212.463621 at x0(EZ) = -1.380000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35286, max. relative error = 1.141014e-15
+stability1 = 212.378906 at x0(EZ) = -1.370000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+Exit flag: 1
+con2cov: iterations = 35277, max. relative error = 1.141073e-15
+[Warning: stability1 is not a real number or is NaN at x0(EZ) = -1.360000] 
+[> In mainK44 at 87
+  In run at 63] 
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 35285, max. relative error = 1.141120e-15
+Fine stability1 = 212.370434 at x0(EZ) = -1.369000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 35284, max. relative error = 1.141225e-15
+Fine stability1 = 212.361961 at x0(EZ) = -1.368000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 35283, max. relative error = 1.141331e-15
+Fine stability1 = 212.353488 at x0(EZ) = -1.367000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 35283, max. relative error = 1.140437e-15
+Fine stability1 = 212.345015 at x0(EZ) = -1.366000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 35282, max. relative error = 1.140543e-15
+Fine stability1 = 212.336541 at x0(EZ) = -1.365000
+
+Equation solved, inaccuracy possible.
+
+The vector of function values is near zero, as measured by the selected value
+of the function tolerance. However, the last step was ineffective.
+
+
+
+con2cov: iterations = 35281, max. relative error = 1.140648e-15
+Fine stability1 = 212.328068 at x0(EZ) = -1.364000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 35280, max. relative error = 1.140754e-15
+Fine stability1 = 212.319594 at x0(EZ) = -1.363000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 35279, max. relative error = 1.140861e-15
+Fine stability1 = 212.311120 at x0(EZ) = -1.362000
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the selected value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+con2cov: iterations = 35278, max. relative error = 1.140967e-15
+Fine stability1 = 212.302646 at x0(EZ) = -1.361000
+Saved StabilityMatrix_K44_EZ23_to_78.mat successfully.
